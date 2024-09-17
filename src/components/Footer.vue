@@ -48,7 +48,7 @@ footer {
                             <span class="fs-5 ms-2 text-primary-700">hexschool_demo</span>
                         </div>
                     </a> -->
-                    <a href="https://line.me/ti/p/29ZBDShdtQ">
+                    <a href="https://line.me/ti/p/29ZBDShdtQ" target="_blank">
                         <div class="bg-dark px-4 py-2 rounded-3">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48px" height="48px">
                                 <path
